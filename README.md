@@ -4,7 +4,7 @@
 * API REST com Java e Spring Boot
 * Banco de dados com ORM
 * Front end com ReactJS
-* CAmadas, componentes, boas práticas
+* Camadas, componentes, boas práticas
 * Integração com SMS
 * Implantação na nuvem com CI/CD
 
