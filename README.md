@@ -3,8 +3,6 @@
 
 https://devsuperior.com.br 
 
-* Link do projeto hospedado: https://dsmetamatheus.netlify.app/
-
 ## DSMETA - Tecnologias utilizadas
 
 * API REST com Java e Spring Boot
